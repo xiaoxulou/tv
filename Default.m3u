@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gitee.com/jys333/tv/raw/master/25.m3u
-#EXTINF:-1 group-title="售后",售后必加微信xufeiyue-22-0523
+
 http://i.postimg.cc/QxtkSt38/8888.m3u8
 #EXTINF:-1 group-title="提醒",带图好评 享受每周一次稳定维护
 http://i.postimg.cc/QxtkSt38/8888.m3u8
